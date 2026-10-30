@@ -16,6 +16,10 @@ The AI uses Minimax to simulate possible future moves and determine the best mov
 - `+1` → AI wins
 - `0` → Draw
 - `-1` → Player wins
+
+## How Minimax Works
+
+Minimax works by looking at every possible move from the current board, then recursively imagining what would happen after each move. For example: you try one move, assume I respond in the best way to avoid losing, then you compare the outcomes and pick the move that gives you the best guaranteed result
  
 ## Features
  
