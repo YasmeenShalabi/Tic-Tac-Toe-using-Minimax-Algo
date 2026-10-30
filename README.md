@@ -30,7 +30,6 @@ Minimax works by looking at every possible move from the current board, then rec
 - Simple command-line interface
  
 ## Running the Game
- 
 run: python tic_tac_toe.py
 
 Enter a number from 1–9 when prompted to choose your position.
